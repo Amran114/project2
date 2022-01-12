@@ -1,0 +1,44 @@
+.trend{
+ background-image: url("../images/child\ with\ flu.jpg");
+ background-color: brown;
+ background-repeat: no-repeat;
+ background-size: cover;
+ padding: 70px;
+}
+
+.disease{
+    background-color: chartreuse;
+    padding: 20px;
+    text-align: center;
+    margin-top: 5px;
+
+
+}
+
+#mem{
+    color: white;
+    text-align: center;
+}
+
+#lore{
+    color: white;
+}
+.ilness{
+    color: white;
+    text-align: center;
+}
+.dollar{
+    background-color: brown;
+    padding: 20px;
+    margin-top: 5px;
+
+}
+.lil{
+    color: white;
+    text-align: center;
+    background-color: tomato;
+    padding: 20px;
+    margin-top: 5px;
+
+}
+
